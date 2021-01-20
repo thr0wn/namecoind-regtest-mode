@@ -1,7 +1,5 @@
 # Namecoin daemon ready for tests on regtest mode
 
-<hr>
-
 ## ⚙ Build
 ```bash
 docker build -t namecoind-regtest-mode .
