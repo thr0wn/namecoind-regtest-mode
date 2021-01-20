@@ -4,14 +4,14 @@
 
 ## ⚙ Build
 ```bash
-docker build -t namecoind-regtest .
+docker build -t namecoind-regtest-mode .
 ```
 
 <hr>
 
 ## 🚀 Run
 ```bash
-docker run -d --name namecoind-regtest -p 3334:3334 namecoind-regtest
+docker run -d --name namecoind-regtest-mode -p 3334:3334 namecoind-regtest-mode
 ```
 
 <hr>
